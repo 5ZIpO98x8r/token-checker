@@ -64,7 +64,7 @@ Json output:
         "phone": [],
         "unverified": [],
         "invalid": [],
-        "parsedTokens": []
+        "parsedTokens": [] 
     },
     "tokensData": {
         "TOKEN": {
